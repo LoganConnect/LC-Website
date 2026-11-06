@@ -24,4 +24,4 @@ h1,h2,h3,h4{font-family:'PRBC Montserrat',sans-serif}
 @font-face{font-family:'PRBC Montserrat';src:url('assets/fonts/montserrat-bold.woff2') format('woff2');font-style:normal;font-weight:700;font-display:swap}
 h1,h2,h3,h4{font-family:'PRBC Montserrat',sans-serif;letter-spacing:-.025em}h1,h2{font-weight:600}.eyebrow{font-weight:600;letter-spacing:.08em}.button{font-weight:700}
 
-.church-link{color:inherit;text-decoration:none}
+.hero .eyebrow .church-link:link,.hero .eyebrow .church-link:visited,.hero .eyebrow .church-link:hover,.hero .eyebrow .church-link:active{color:inherit;text-decoration:none}
